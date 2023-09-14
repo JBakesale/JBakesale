@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Josh a Full-Stack Developer!
+### Hi there 👋 I'm Josh, a Full-Stack Developer!
 
 
 <!-- **JBakesale/JBakesale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
