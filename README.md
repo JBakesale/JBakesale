@@ -1,4 +1,4 @@
-## Thanks for stopping by 
+## Thanks for stopping by 👋
  # I'm Josh: Full-Stack Web Developer!
 
 - 🔭 I’m currently working on [Urban Odyssey](https://github.com/JBakesale/Urban-Odyssey). A fitness & errand adventure application leveraging openAI and Google Maps API to generate personalized, location based productivity missions! 
