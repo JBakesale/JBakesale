@@ -1,15 +1,11 @@
-### Hi there 👋 I'm Josh, a Full-Stack Developer!
-
-
-<!-- **JBakesale/JBakesale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
+## Thanks for stopping by 
+ # I'm Josh: Full-Stack Web Developer!
 
 - 🔭 I’m currently working on [Urban Odyssey](https://github.com/JBakesale/Urban-Odyssey). A fitness & errand adventure application leveraging openAI and Google Maps API to generate personalized, location based productivity missions! 
 - 🌱 I’m currently, ALWAYS learning 
 <!-- - 👯 I’m looking to collaborate on anything cutting-edge, AI -->
 - 💬 Ask me about my IRL endurance adventures 
-<!-- - 📫 How to reach me: ... -->
+<!-- - 📫 How to reach me: Discord: jbakesale -->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a nature lover and animal rights advocate
 
@@ -48,4 +44,6 @@ Here are some ideas to get you started: -->
     <img src="./icons/mocha.png" alt="Mocha" width="50" height="50" style="margin-right: 5px;"/>
     <!-- Chai Icon -->
     <img src="./icons/chai.jpg" alt="Chai" width="50" height="50" style="margin-right: 5px;"/>
+    <!-- Git Icon -->
+    <img src="./icons/git.png" alt="Git" width="50" height="50" style="margin-right: 5px;"/>
 </div>
