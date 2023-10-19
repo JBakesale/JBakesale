@@ -1,9 +1,9 @@
 ## Thanks for stopping by 👋
- # I'm JBakesale aka Josh Baker
+## I'm JBakesale aka [Joshua](https://www.linkedin.com/in/joshua-baker-51510084/)
 
 - 🔭 My latest project is [Urban Odyssey](https://github.com/JBakesale/Urban-Odyssey). A fitness & errand adventure application leveraging openAI and Google Maps API to generate personalized, location based productivity missions! 
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Typescript && Liquid for Shopify
 <!-- - 👯 I’m looking to collaborate on anything cutting-edge, AI -->
 - 💬 Ask me about my IRL endurance adventures 
 <!-- - 📫 How to reach me: Discord: jbakesale -->
