@@ -1,9 +1,9 @@
 ## Thanks for stopping by 👋
- # I'm Josh: Full-Stack Web Developer!
+ # I'm JBakesale aka Josh Baker
 
-- 🔭 I’m currently working on [Urban Odyssey](https://github.com/JBakesale/Urban-Odyssey). A fitness & errand adventure application leveraging openAI and Google Maps API to generate personalized, location based productivity missions! 
+- 🔭 My latest project is [Urban Odyssey](https://github.com/JBakesale/Urban-Odyssey). A fitness & errand adventure application leveraging openAI and Google Maps API to generate personalized, location based productivity missions! 
 
-- 🌱 I’m currently, ALWAYS learning 
+- 🌱 I’m currently learning 
 <!-- - 👯 I’m looking to collaborate on anything cutting-edge, AI -->
 - 💬 Ask me about my IRL endurance adventures 
 <!-- - 📫 How to reach me: Discord: jbakesale -->
