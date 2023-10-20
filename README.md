@@ -1,5 +1,4 @@
-## Thanks for stopping by 👋
-## I'm JBakesale aka [Joshua](https://www.linkedin.com/in/joshua-baker-51510084/)
+## Thanks for stopping by 👋 
 
 - 🔭 My latest project is [Urban Odyssey](https://github.com/JBakesale/Urban-Odyssey). A fitness & errand adventure application leveraging openAI and Google Maps API to generate personalized, location based productivity missions! 
 
@@ -10,6 +9,9 @@
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: I am a nature lover and animal rights advocate
+
+### Let's Connect:
+<img src=>
 
 ## Tech Stack:
 
