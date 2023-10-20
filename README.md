@@ -11,7 +11,15 @@
 - ⚡ Fun fact: I am a nature lover and animal rights advocate
 
 ### Let's Connect:
-<img src=>
+<a href="mailto:joshuadfbaker@gmail.com">
+  <img src="./icons/gmail.png" alt="Gmail" width="50" height="50">
+</a>
+<a href="https://www.linkedin.com/in/joshua-baker-51510084/">
+  <img src="./icons/linkedin.png" alt="LinkedIn" width="50" height="50">
+</a>
+<a href="https://www.instagram.com/jbakesale/">
+  <img src="./icons/insta.jpg" alt="Instagram" width="50" height="50">
+</a>
 
 ## Tech Stack:
 
